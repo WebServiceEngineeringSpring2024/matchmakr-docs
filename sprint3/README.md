@@ -19,7 +19,11 @@ Our team's third sprint was focused on implementing the core functionality of th
   - The backend is able to retrieve a list of online users who have personality scores that are within proximity of the target user's scores.
   - The frontend is able to display these matched users in a lobby.
 
+### Sprint 3 Story Points Forecast
+[Story Points Forecast](Story%20Points%20Forecast%20and%20Rationale%20(Sprint3).MD)
+
 ### Sprint 3 Kanban Board
+[Kanban Board Link](https://webserviceengineering.visualstudio.com/Web%20Service%20Eng.%20-%20Programming%20Project)
 ![Sprint3 Kanban.png](Sprint3%20Kanban.PNG)
 
 ### Sprint 3 Burndown Chart
