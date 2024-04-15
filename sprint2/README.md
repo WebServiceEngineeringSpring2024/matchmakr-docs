@@ -35,10 +35,10 @@ Our team's second sprint was focused on creating the back-end API and database s
 ### Sprint 2 CI Evidence
 
   #### Application CI
-  ![application-ci.png](application-ci.PNG)
+  ![application-ci.png](application-ci.png)
 
   #### Service CI
-  ![service-ci.png](service-ci.PNG)
+  ![service-ci.png](service-ci.png)
 
 ### Sprint 2 Retro
 [Sprint 2 Retro](Matchmakr%20Sprint%202%20Retro.pdf)
