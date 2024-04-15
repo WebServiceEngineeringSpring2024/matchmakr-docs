@@ -18,7 +18,7 @@ Our team's third sprint was focused on implementing the core functionality of th
   - The frontend is able to display these matched users in a lobby.
 
 ### Sprint 3 Burndown Chart
-![Sprint3 Burndown.png](Sprint3%20Burndown.png)
+![Sprint3 Burndown.png](Sprint3%20Burndown.PNG)
 
 ### [Sprint 3 Retro]
 
