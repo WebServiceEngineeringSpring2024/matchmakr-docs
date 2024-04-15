@@ -10,6 +10,8 @@
 ## Sprint Summary
 Our team's third sprint was focused on implementing the core functionality of the app: assigning player's a "personality" score and allowing them to match with other players based on these scores. Additional medium and low priority tasks were added in the event that we had extra time during this final sprint. We were able to complete the following tasks:
 
+- Testing Suite for Core Application Features
+  - Testing has been implemented to run checks on the main app functionality. Tests are required to pass before merging into the main branch of the project.
 - Implement Personality Quiz
   - The backend is able to save three scores on "aggression", "competitiveness", and "kindness" to the player personality table.
   - The frontend prompts new users to take a player personality quiz and saves the results to the database.
@@ -19,6 +21,9 @@ Our team's third sprint was focused on implementing the core functionality of th
 
 ### Sprint 3 Burndown Chart
 ![Sprint3 Burndown.png](Sprint3%20Burndown.PNG)
+
+### Sprint 3 Scrum Evidence
+![Sprint3 Scrum.png](Sprint3%20Scrum.PNG)
 
 ### Sprint 3 CI Evidence
 

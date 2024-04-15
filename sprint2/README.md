@@ -23,4 +23,11 @@ Our team's second sprint was focused on creating the back-end API and database s
 ![Sprint2 Burndown.png](Sprint2%20Burndown.png)
 
 ### [Sprint 2 Retro](Matchmakr%20Sprint%202%20Retro.pdf)
-## For Next Sprint
+
+### For Next Sprint
+- [High Priority] Create additional tests for service and application features
+- [High Priority] Implement the player personality quiz functionality (back and front end)
+- [High Priority] Implement the user matchmaking functionality (back and front end)
+- [Medium Priority] Add ability to add friends to a matchmaking lobby
+- [Low Priority] Add ability to add friends to friend's list
+- [Low Priority] Add ability to view a user's profile details.
