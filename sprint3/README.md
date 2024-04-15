@@ -16,12 +16,9 @@ Our team's third sprint was focused on implementing the core functionality of th
 - Implement User Matchmaking
   - The backend is able to retrieve a list of online users who have personality scores that are within proximity of the target user's scores.
   - The frontend is able to display these matched users in a lobby.
-- Created database through digitalocean
-- Developed interactive front-end
-- Developed back-end API able to access database
 
 ### Sprint 3 Burndown Chart
 ![Sprint3 Burndown.png](Sprint3%20Burndown.png)
 
-### [Sprint 3 Retro](Matchmakr%20Sprint%202%20Retro.pdf)
+### [Sprint 3 Retro]
 
