@@ -13,8 +13,8 @@ Our team's second sprint was focused on creating the back-end API and database s
   - [matchmakr-application](https://github.com/WebServiceEngineeringSpring2024/matchmakr-application)
   - [matchmakr-service](https://github.com/WebServiceEngineeringSpring2024/matchmakr-service)
 - Created CI pipelines
-  - Front-end ![application-ci.png](cicd/application-ci.png)
-  - Back-end ![service-ci.png](cicd/service-ci.png)
+  - Front-end ![application-ci.png](application-ci.png)
+  - Back-end ![service-ci.png](service-ci.png)
 - Created database through digitalocean
 - Developed interactive front-end
 - Developed back-end API able to access database
@@ -37,10 +37,10 @@ Our team's second sprint was focused on creating the back-end API and database s
 ### Sprint 2 CI Evidence
 
   #### Application CI
-  ![Sprint2 Application CI.png](application-ci.PNG)
+  ![application-ci.png](application-ci.PNG)
 
   #### Service CI
-  ![Sprint2 Service CI.png](service-ci.PNG)
+  ![service-ci.png](service-ci.PNG)
 
 ### Sprint 2 Retro
 [Sprint 2 Retro](Matchmakr%20Sprint%202%20Retro.pdf)
