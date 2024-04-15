@@ -21,7 +21,11 @@ Our team's third sprint was focused on implementing the core functionality of th
 ![Sprint3 Burndown.png](Sprint3%20Burndown.PNG)
 
 ### Sprint 3 CI Evidence
+
+#### Application CI
 ![Sprint3 Application CI.png](Sprint3%20Application%20CI.PNG)
+
+#### Service CI
 ![Sprint3 Service CI.png](Sprint3%20Service%20CI.PNG)
 
 ### Sprint 3 Kanban Board
