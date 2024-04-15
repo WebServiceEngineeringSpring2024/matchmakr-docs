@@ -19,11 +19,16 @@ Our team's third sprint was focused on implementing the core functionality of th
   - The backend is able to retrieve a list of online users who have personality scores that are within proximity of the target user's scores.
   - The frontend is able to display these matched users in a lobby.
 
+### Sprint 3 Kanban Board
+![Sprint3 Kanban.png](Sprint3%20Kanban.PNG)
+
 ### Sprint 3 Burndown Chart
 ![Sprint3 Burndown.png](Sprint3%20Burndown.PNG)
 
 ### Sprint 3 Scrum Evidence
 ![Sprint3 Scrum.png](Sprint3%20Scrum.PNG)
+
+### Sprint 3 Mob Evidence
 
 ### Sprint 3 CI Evidence
 
@@ -32,11 +37,6 @@ Our team's third sprint was focused on implementing the core functionality of th
 
   #### Service CI
   ![Sprint3 Service CI.png](Sprint3%20Service%20CI.PNG)
-
-### Sprint 3 Kanban Board
-![Sprint3 Kanban.png](Sprint3%20Kanban.PNG)
-
-### Sprint 3 Mob Evidence
 
 ### Sprint 3 Retro
 
