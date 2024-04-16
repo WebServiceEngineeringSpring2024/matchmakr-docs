@@ -51,4 +51,4 @@ Our team's third sprint was focused on implementing the core functionality of th
 [Sprint 3 Retro](Sprint%203%20Retro.pdf)
 
 ### Complete Software Solution Demonstration
-[Software Demonstration](Software%20Demonstration.mp4)
+[Software Demonstration](https://youtu.be/JuDNOT3l7A8)
